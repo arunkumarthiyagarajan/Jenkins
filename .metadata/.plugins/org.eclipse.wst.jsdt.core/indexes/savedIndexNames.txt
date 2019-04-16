@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Jenkins\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2981241855.index
+570318907.index
+805132246.index
+2083399205.index
+1681305505.index
+2454200981.index
